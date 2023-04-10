@@ -9,11 +9,13 @@
      
     Thank you for your prompt attention to this matter. If you have any questions or concerns, please do not hesitate to contact us.<br/><br/>
     Note: Due Date {!dueDate} is the last date to pay with above link. 
+    Thank you for your prompt attention to this matter. If you have any questions or concerns, please do not hesitate to contact us.
+    Note: You HAve to done payment before dueDate with above payment link.
     
     
     <br/><br/>
     thanks & Best regards,
     <br/><br/>
     ISCA
-    
+   Done Finally 
 </apex:component>
