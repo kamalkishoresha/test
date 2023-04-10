@@ -7,7 +7,8 @@
     To make the payment process easier for you, we have included a link to our secure payment portal:&nbsp; <apex:outputText rendered="{!BookingDetails.Id != null}"><a href="{!locationUrl}" >Payment Link</a></apex:outputText>. Please note that this link will only be active until {!dueDate}, after which it will no longer be accessible.<br/><br/>
     We kindly ask that you make the payment as soon as possible to avoid any late fees or penalties. If you have already made the payment, please disregard this message.<br/><br/>
      
-    Thank you for your prompt attention to this matter. If you have any questions or concerns, please do not hesitate to contact us.
+    Thank you for your prompt attention to this matter. If you have any questions or concerns, please do not hesitate to contact us.<br/><br/>
+    Note: Due Date {!dueDate} is the last date to pay with above link. 
     
     
     <br/><br/>
