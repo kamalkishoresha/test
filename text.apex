@@ -11,7 +11,7 @@
     
     
     <br/><br/>
-    Best regards,
+    thanks & Best regards,
     <br/><br/>
     ISCA
     
