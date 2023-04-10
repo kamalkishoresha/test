@@ -8,11 +8,12 @@
     We kindly ask that you make the payment as soon as possible to avoid any late fees or penalties. If you have already made the payment, please disregard this message.<br/><br/>
      
     Thank you for your prompt attention to this matter. If you have any questions or concerns, please do not hesitate to contact us.
+    Note: You HAve to done payment before dueDate with above payment link.
     
     
     <br/><br/>
     thanks & Best regards,
     <br/><br/>
     ISCA
-    
+   Done Finally 
 </apex:component>
